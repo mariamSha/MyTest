@@ -1,6 +1,6 @@
 change 1
 <<<<<<< HEAD:MyFile.txt.txt
-change 3
+change 2
 =======
 change 2
 >>>>>>> change2:newfile.txt.txt
